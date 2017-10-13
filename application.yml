@@ -11,8 +11,3 @@ logging:
     io:
       pivotal: DEBUG
 
-spring:
-  cloud:
-    services:
-      registrationMethod: direct
-
